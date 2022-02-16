@@ -144,7 +144,7 @@
         "description": "B0"
       },
       "Elevation-Gray": {
-        "value": "$B10",
+        "value": "$B15",
         "type": "color",
         "description": "B10"
       }
@@ -201,15 +201,15 @@
     },
     "Constant": {
       "Always White": {
-        "value": "#ffffff",
+        "value": "$B0",
         "type": "color"
       },
       "Always Black": {
-        "value": "#161616",
+        "value": "$B93",
         "type": "color"
       },
-      "Always Mobile Primary": {
-        "value": "#5268ff",
+      "AlwaysPrimary": {
+        "value": "$Primary",
         "type": "color"
       },
       "Always Red": {
