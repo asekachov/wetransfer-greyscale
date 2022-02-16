@@ -215,6 +215,48 @@
       "AlwaysRed": {
         "value": "#e65050",
         "type": "color"
+      },
+      "Purple": {
+        "value": "#5c2bcf",
+        "type": "color"
+      },
+      "Orange": {
+        "value": "#ff904b",
+        "type": "color"
+      },
+      "Green": {
+        "value": "#50c476",
+        "type": "color"
+      },
+      "DodgerBlue": {
+        "value": "#409fff",
+        "type": "color"
+      }
+    },
+    "Supporting": {
+      "Purple-20": {
+        "value": "#ded5f5",
+        "type": "color"
+      },
+      "Orange-20": {
+        "value": "#ffe9da",
+        "type": "color"
+      },
+      "DodgerBlue-20": {
+        "value": "#d9ecff",
+        "type": "color"
+      },
+      "Green-20": {
+        "value": "#d5f0de",
+        "type": "color"
+      },
+      "Primary-20": {
+        "value": "#d8e0ff",
+        "type": "color"
+      },
+      "Primary-10": {
+        "value": "#eef0ff",
+        "type": "color"
       }
     }
   }
