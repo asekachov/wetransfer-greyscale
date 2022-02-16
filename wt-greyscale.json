@@ -1,84 +1,223 @@
 {
   "global": {
-    "5": {
+    "Primary": {
+      "value": "#5268ff",
+      "type": "color"
+    },
+    "B0": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "B5": {
       "value": "#fdfdfd",
       "type": "color"
     },
-    "10": {
+    "B10": {
       "value": "#f8f8f8",
       "type": "color"
     },
-    "15": {
+    "B15": {
       "value": "#f1f1f1",
       "type": "color"
     },
-    "20": {
+    "B20": {
       "value": "#eaeaea",
       "type": "color"
     },
-    "25": {
+    "B25": {
       "value": "#e0e0e0",
       "type": "color"
     },
-    "30": {
+    "B30": {
       "value": "#d6d6d6",
       "type": "color"
     },
-    "35": {
+    "B35": {
       "value": "#cbcbcb",
       "type": "color"
     },
-    "40": {
+    "B40": {
       "value": "#bfbfbf",
       "type": "color"
     },
-    "45": {
+    "B45": {
       "value": "#b2b2b2",
       "type": "color"
     },
-    "50": {
+    "B50": {
       "value": "#a4a4a4",
       "type": "color"
     },
-    "55": {
+    "B55": {
       "value": "#959595",
       "type": "color"
     },
-    "60": {
+    "B60": {
       "value": "#868686",
       "type": "color"
     },
-    "65": {
+    "B65": {
       "value": "#777777",
       "type": "color"
     },
-    "70": {
+    "B70": {
       "value": "#676767",
       "type": "color"
     },
-    "75": {
+    "B75": {
       "value": "#575757",
       "type": "color"
     },
-    "80": {
+    "B80": {
       "value": "#464646",
       "type": "color"
     },
-    "85": {
+    "B85": {
       "value": "#353535",
       "type": "color"
     },
-    "90": {
+    "B90": {
       "value": "#242424",
       "type": "color"
     },
-    "93": {
+    "B93": {
       "value": "#161616",
       "type": "color"
     },
-    "95": {
+    "B95": {
       "value": "#111111",
       "type": "color"
+    },
+    "Light": {
+      "Grey-1": {
+        "value": "$B80",
+        "type": "color",
+        "description": "B80"
+      },
+      "Grey-2": {
+        "value": "$B60",
+        "type": "color",
+        "description": "B60"
+      },
+      "Grey-3": {
+        "value": "$B50",
+        "type": "color",
+        "description": "B50"
+      },
+      "Grey-4": {
+        "value": "$B40",
+        "type": "color",
+        "description": "B40"
+      },
+      "Grey-5": {
+        "value": "$B30",
+        "type": "color",
+        "description": "B30"
+      },
+      "Grey-6": {
+        "value": "$B20",
+        "type": "color",
+        "description": "B20"
+      },
+      "White": {
+        "value": "$B0",
+        "type": "color",
+        "description": "B0"
+      },
+      "Black": {
+        "value": "$B93",
+        "type": "color",
+        "description": "B93"
+      },
+      "PrimaryToBlack": {
+        "value": "$Primary",
+        "type": "color"
+      },
+      "Surface-1": {
+        "value": "$B0",
+        "type": "color",
+        "description": "B0"
+      },
+      "Surface-2": {
+        "value": "$B0",
+        "type": "color",
+        "description": "B0"
+      },
+      "Elevation-Gray": {
+        "value": "$B10",
+        "type": "color",
+        "description": "B10"
+      }
+    },
+    "Dark": {
+      "Grey-1": {
+        "value": "#bfbfbf",
+        "type": "color"
+      },
+      "Grey-2": {
+        "value": "#868686",
+        "type": "color",
+        "description": "(Oslo Gray-55) [night]\n"
+      },
+      "Grey-3": {
+        "value": "#676767",
+        "type": "color",
+        "description": "(NA-60) [night]\n"
+      },
+      "Grey-4": {
+        "value": "#464646",
+        "type": "color"
+      },
+      "Grey-5": {
+        "value": "#353535",
+        "type": "color"
+      },
+      "Grey-6": {
+        "value": "#161616",
+        "type": "color"
+      },
+      "White": {
+        "value": "#161616",
+        "type": "color"
+      },
+      "Black": {
+        "value": "#f8f8f8",
+        "type": "color"
+      },
+      "PrimaryToBlack": {
+        "value": "#242424",
+        "type": "color"
+      },
+      "Surface-1": {
+        "value": "#161616",
+        "type": "color"
+      },
+      "Surface-2": {
+        "value": "#262626",
+        "type": "color"
+      },
+      "Elevation-Gray": {
+        "value": "#262626",
+        "type": "color"
+      }
+    },
+    "Constant": {
+      "Always White": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Always Black": {
+        "value": "#161616",
+        "type": "color"
+      },
+      "Always Mobile Primary": {
+        "value": "#5268ff",
+        "type": "color"
+      },
+      "Always Red": {
+        "value": "#e65050",
+        "type": "color"
+      }
     }
   }
 }
