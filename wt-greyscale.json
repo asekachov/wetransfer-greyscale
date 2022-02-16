@@ -151,53 +151,51 @@
     },
     "Dark": {
       "Grey-1": {
-        "value": "#bfbfbf",
+        "value": "$B40",
         "type": "color"
       },
       "Grey-2": {
-        "value": "#868686",
-        "type": "color",
-        "description": "(Oslo Gray-55) [night]\n"
+        "value": "$B60",
+        "type": "color"
       },
       "Grey-3": {
-        "value": "#676767",
-        "type": "color",
-        "description": "(NA-60) [night]\n"
+        "value": "$B70",
+        "type": "color"
       },
       "Grey-4": {
-        "value": "#464646",
+        "value": "$B80",
         "type": "color"
       },
       "Grey-5": {
-        "value": "#353535",
+        "value": "$B85",
         "type": "color"
       },
       "Grey-6": {
-        "value": "#161616",
+        "value": "$B93",
         "type": "color"
       },
       "White": {
-        "value": "#161616",
+        "value": "$B93",
         "type": "color"
       },
       "Black": {
-        "value": "#f8f8f8",
+        "value": "$B5",
         "type": "color"
       },
       "PrimaryToBlack": {
-        "value": "#242424",
+        "value": "$B90",
         "type": "color"
       },
       "Surface-1": {
-        "value": "#161616",
+        "value": "$B93",
         "type": "color"
       },
       "Surface-2": {
-        "value": "#262626",
+        "value": "$B90",
         "type": "color"
       },
       "Elevation-Gray": {
-        "value": "#262626",
+        "value": "$B90",
         "type": "color"
       }
     },
