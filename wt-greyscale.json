@@ -179,7 +179,7 @@
         "type": "color"
       },
       "Black": {
-        "value": "$B5",
+        "value": "$B10",
         "type": "color"
       },
       "PrimaryToBlack": {
@@ -200,11 +200,11 @@
       }
     },
     "Constant": {
-      "Always White": {
+      "AlwaysWhite": {
         "value": "$B0",
         "type": "color"
       },
-      "Always Black": {
+      "AlwaysBlack": {
         "value": "$B93",
         "type": "color"
       },
@@ -212,7 +212,7 @@
         "value": "$Primary",
         "type": "color"
       },
-      "Always Red": {
+      "AlwaysRed": {
         "value": "#e65050",
         "type": "color"
       }
