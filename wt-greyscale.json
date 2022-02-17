@@ -125,7 +125,7 @@
         "description": "B0"
       },
       "Black": {
-        "value": "$B93",
+        "value": "$B95",
         "type": "color",
         "description": "B93"
       },
@@ -175,7 +175,7 @@
         "type": "color"
       },
       "White": {
-        "value": "$B93",
+        "value": "$B95",
         "type": "color"
       },
       "Black": {
