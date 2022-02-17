@@ -147,6 +147,32 @@
         "value": "$B10",
         "type": "color",
         "description": "B10"
+      },
+      "Supporting": {
+        "Purple-20": {
+          "value": "#ded5f5",
+          "type": "color"
+        },
+        "Orange-20": {
+          "value": "#ffe9da",
+          "type": "color"
+        },
+        "DodgerBlue-20": {
+          "value": "#d9ecff",
+          "type": "color"
+        },
+        "Green-20": {
+          "value": "#d5f0de",
+          "type": "color"
+        },
+        "Primary-20": {
+          "value": "#d8e0ff",
+          "type": "color"
+        },
+        "Primary-10": {
+          "value": "#eef0ff",
+          "type": "color"
+        }
       }
     },
     "Dark": {
@@ -197,6 +223,32 @@
       "Elevation-Gray": {
         "value": "$B90",
         "type": "color"
+      },
+      "Supporting": {
+        "Purple-20": {
+          "value": "$B90",
+          "type": "color"
+        },
+        "Orange-20": {
+          "value": "$B90",
+          "type": "color"
+        },
+        "DodgerBlue-20": {
+          "value": "$B90",
+          "type": "color"
+        },
+        "Green-20": {
+          "value": "$B90",
+          "type": "color"
+        },
+        "Primary-20": {
+          "value": "$B90",
+          "type": "color"
+        },
+        "Primary-10": {
+          "value": "$B90",
+          "type": "color"
+        }
       }
     },
     "Constant": {
@@ -230,32 +282,6 @@
       },
       "DodgerBlue": {
         "value": "#409fff",
-        "type": "color"
-      }
-    },
-    "Supporting": {
-      "Purple-20": {
-        "value": "#ded5f5",
-        "type": "color"
-      },
-      "Orange-20": {
-        "value": "#ffe9da",
-        "type": "color"
-      },
-      "DodgerBlue-20": {
-        "value": "#d9ecff",
-        "type": "color"
-      },
-      "Green-20": {
-        "value": "#d5f0de",
-        "type": "color"
-      },
-      "Primary-20": {
-        "value": "#d8e0ff",
-        "type": "color"
-      },
-      "Primary-10": {
-        "value": "#eef0ff",
         "type": "color"
       }
     }
