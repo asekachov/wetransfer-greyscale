@@ -119,17 +119,21 @@
         "type": "color",
         "description": "B20"
       },
-      "White": {
+      "BasicSecondary": {
         "value": "$B0",
         "type": "color",
         "description": "B0"
       },
-      "Black": {
+      "BasicPrimary": {
         "value": "$B95",
         "type": "color",
         "description": "B93"
       },
       "PrimaryToBlack": {
+        "value": "$Primary",
+        "type": "color"
+      },
+      "PrimaryToWhite": {
         "value": "$Primary",
         "type": "color"
       },
@@ -143,7 +147,7 @@
         "type": "color",
         "description": "B0"
       },
-      "Elevation-Gray": {
+      "Grey-7": {
         "value": "$B10",
         "type": "color",
         "description": "B10"
@@ -200,16 +204,20 @@
         "value": "$B93",
         "type": "color"
       },
-      "White": {
+      "BasicSecondary": {
         "value": "$B95",
         "type": "color"
       },
-      "Black": {
+      "BasicPrimary": {
         "value": "$B10",
         "type": "color"
       },
       "PrimaryToBlack": {
         "value": "$B93",
+        "type": "color"
+      },
+      "PrimaryToWhite": {
+        "value": "$B5",
         "type": "color"
       },
       "Surface-1": {
@@ -220,7 +228,7 @@
         "value": "$B90",
         "type": "color"
       },
-      "Elevation-Gray": {
+      "Grey-7": {
         "value": "$B90",
         "type": "color"
       },
